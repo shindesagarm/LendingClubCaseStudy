@@ -40,7 +40,7 @@ Applicant likely to repay the loan, such an applicant will bring in profit to th
 Applicant not likely to repay the loan, i.e. and will potentially default, 
 then approving the loan may lead to a financial loss* for the company
 
-#objectives
+# objectives
 The goal is to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
 Identification of such applicants using EDA using the given dataset, is the aim of this case study.
 
@@ -50,7 +50,7 @@ credit loss. Identification of such applicants using EDA is the aim of this case
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, 
 i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
-#Dataset
+# Dataset
 The data given below contains the information about past loan applicants and whether they ‘defaulted’ or not. 
 The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
