@@ -12,10 +12,10 @@
   The company can utilise this knowledge for its portfolio and risk assessment.  
 
   ## Table of Contents
-* General Info(#general-information)
-* Technologies Used(#technologies-used)
-* Conclusions(#conclusions)
-* Assumptions(#acknowledgements)
+* General Info
+* Technologies Used
+* Conclusions
+* Assumptions
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -40,7 +40,7 @@ Applicant likely to repay the loan, such an applicant will bring in profit to th
 Applicant not likely to repay the loan, i.e. and will potentially default, 
 then approving the loan may lead to a financial loss* for the company
 
-# objectives
+# Objectives
 The goal is to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
 Identification of such applicants using EDA using the given dataset, is the aim of this case study.
 
