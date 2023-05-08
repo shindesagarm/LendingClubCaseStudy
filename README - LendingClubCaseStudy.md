@@ -15,7 +15,6 @@
 * General Info
 * Technologies Used
 * Conclusions
-* Assumptions
 
 <!-- You can include any other section that is pertinent to your problem -->
 
