@@ -22,16 +22,16 @@
 Lending Club is a consumer finance marketplace for personal loans that matches borrowers 
 who are seeking a loan with investors looking to lend money and make a return.
 
-It specialises in lending various types of loans to urban customers. 
+It specializes in lending various types of loans to urban customers. 
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant's profile.
 
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). 
 The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
 
 In other words, borrowers who default cause the largest amount of loss to the lenders. 
-In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+In this case, the customers labeled as 'charged-off' are the 'defaulters'.
 
-The core objective of the excercise is to help the company minimise the credit loss. 
+The core objective of the exercise is to help the company minimize the credit loss. 
 There are two potential sources of credit loss are:
 
 Applicant likely to repay the loan, such an applicant will bring in profit to the company with interest rates.
@@ -66,8 +66,9 @@ The aim is to identify patterns which indicate if a person is likely to default,
 
 ## Technologies Used
 - Python - version 3.x
-- library - pandas 3.x
-- library - matplotlib 3.x
+- library - pandas 
+- library - matplotlib 
+- library - seaborn 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
